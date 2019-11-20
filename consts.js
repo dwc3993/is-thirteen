@@ -34,6 +34,8 @@ var thirteenStrings = [
   
     "weedle", //#13 Pokémon
 
+	"aluminum", // Aluminum is element 13
+	
     // Imaginary 13's
     "13+0i",
     "13 + 13i",
